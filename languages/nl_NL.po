@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitter Publisher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-03 21:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timan Rebel <timan@lavapool.nl>\n"
+"Language-Team: Timan Rebel <wordpress@rebelic.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: /Users/timan/Desktop/\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/timan/Desktop\n"
+
+#: /Users/timan/Desktop/twitter-publisher.php:55
+msgid "Twitter credentials and sharing"
+msgstr "Twitter gegevens"
+
+#: /Users/timan/Desktop/twitter-publisher.php:58
+#: /Users/timan/Desktop/twitter-publisher.php:321
+msgid "Twitter username:"
+msgstr "Twitter gebruikersnaam:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:61
+msgid "Do not include the <code>@</code> at the beginning."
+msgstr "Voeg niet het <code>@</code> aan het begin toe."
+
+#: /Users/timan/Desktop/twitter-publisher.php:65
+#: /Users/timan/Desktop/twitter-publisher.php:327
+msgid "Twitter password:"
+msgstr "Twitter wachtwoord:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:68
+msgid "Only needed to share new blog posts on Twitter."
+msgstr "Alleen nodig om nieuwe artikelen op Twitter te delen."
+
+#: /Users/timan/Desktop/twitter-publisher.php:72
+msgid "Share new blog posts:"
+msgstr "Deel nieuwe artikelen:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:75
+msgid "Tweet the same Tweet as the main Twitter account under my account too."
+msgstr "Tweet dezelfde tweet als de hoofd account ook onder mijn naam."
+
+#: /Users/timan/Desktop/twitter-publisher.php:261
+msgid "Twitter Publisher Settings"
+msgstr "Twitter Publisher Instellingen"
+
+#: /Users/timan/Desktop/twitter-publisher.php:264
+msgid "Settings saved"
+msgstr "Instellingen opgeslagen"
+
+#: /Users/timan/Desktop/twitter-publisher.php:270
+msgid "Tweet prefix:"
+msgstr "Tweet voorvoegsel:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:273
+msgid "You can prefix your automated tweets with something like <code>New blog post:</code>"
+msgstr "Je kan je geautomatiseerde tweets voorzien van een voorvoegsel, zoals bijvoorbeeld <code>Nieuw artikel:</code>"
+
+#: /Users/timan/Desktop/twitter-publisher.php:277
+msgid "Tweet suffix:"
+msgstr "Tweet achtervoegsel:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:280
+msgid "You can suffix your automated tweets with extra hashtags, like <code>#hashtag</code>"
+msgstr "Je kan je geautomatiseerde tweets voorzien van extra hashtags, zoals bijvoorbeeld <code>#hashtag</code>"
+
+#: /Users/timan/Desktop/twitter-publisher.php:284
+msgid "Drop suffix:"
+msgstr "Verwijder achtervoegsel:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:287
+msgid "Drop the suffix if the tweet exceeds 140 characters."
+msgstr "Verwijder het achtervoegsel als de tweet te lang wordt."
+
+#: /Users/timan/Desktop/twitter-publisher.php:291
+msgid "Short URL service:"
+msgstr "URL verkorter:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:300
+msgid "Refer to author:"
+msgstr "Vermeld auteur:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:303
+msgid "Include the author's Twitter name (or display name when no twitter name is available) when sharing new blog posts."
+msgstr "Vermeld de Twitter naam van de auteur (of zijn Wordpress naam als er geen Twitter naam is vermeld) wanneer er artikelen worden gedeeld op Twitter."
+
+#: /Users/timan/Desktop/twitter-publisher.php:307
+msgid "Delay the Tweet by:"
+msgstr "Vertraag de tweet met:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:310
+msgid "minutes"
+msgstr "minuten"
+
+#: /Users/timan/Desktop/twitter-publisher.php:312
+msgid "This will give you some time to edit the post/title, before the post is tweeted."
+msgstr "Dit geeft je wat tijd om het artikel/de titel te wijzigen, voordat het artikel getweet wordt."
+
+#: /Users/timan/Desktop/twitter-publisher.php:317
+msgid "Main Twitter account credentials"
+msgstr "Twitter gegevens van de hoofd account"
+
+#: /Users/timan/Desktop/twitter-publisher.php:318
+msgid "If you have a Twitter account for your blog, please fill in the username and password below. Author-specific accounts can be provided in their personal profile pages."
+msgstr "Als je blog een Twitter account heeft, vul dan hier je gebruikersnaam en wachtwoord in. Gegevens van de auteurs kunnen ze invullen in hun persoonlijke profielpagina's."
+
+#: /Users/timan/Desktop/twitter-publisher.php:334
+msgid "Awe.sm credentials"
+msgstr "Awe.sm gegevens"
+
+#: /Users/timan/Desktop/twitter-publisher.php:337
+msgid "Awe.sm API key:"
+msgstr "Awe.sm API sleutel:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:342
+msgid "Bit.ly credentials"
+msgstr "Bit.ly gegevens"
+
+#: /Users/timan/Desktop/twitter-publisher.php:345
+msgid "Bit.ly Login name:"
+msgstr "Bit.ly gebruikersnaam:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:349
+msgid "Bit.ly API key:"
+msgstr "Bit.ly API sleutel:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:353
+msgid "Campaign variables:"
+msgstr "Campagne variabelen:"
+
+#: /Users/timan/Desktop/twitter-publisher.php:356
+msgid "Add Google Analytics campaign variables to the permalink for tracking."
+msgstr "Voeg Google Analytics Campagne Variabelen toe aan de permalink voor het volgen van de Tweets"
+
+#: /Users/timan/Desktop/twitter-publisher.php:361
+msgid "Save Changes"
+msgstr "Opslaan"
+
+#: /Users/timan/Desktop/twitter-publisher.php:364
+msgid "Do not forget to have your authors enter their Twitter name in their profiles. Otherwise their Wordpress display name will be mentioned in the tweets."
+msgstr "Vergeet niet je auteurs te vragen hun Twitter naam in te vullen in hun profiel, anders wordt hun Wordpress naam vermeld in de tweet."
+
+#: /Users/timan/Desktop/twitter-publisher.php:494
+msgid "Settings"
+msgstr "Instellingen"
+
